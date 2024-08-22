@@ -13,8 +13,8 @@ require_once 'models/Menu.php';
 
 //!===============================================
 
-//$cliente = new Clientes("","","","","","","");  
-//$cliente->eliminarCliente(88); 
+//$cliente = new Usuario("","","","","","","");  
+//$cliente->eliminarCliente(98); 
 
 //!===============================================
 
@@ -23,7 +23,7 @@ require_once 'models/Menu.php';
 
 //!===============================================
 //$platos = new Platos("","","","","","");
-//$platos->eliminarPlato(7);
+//$platos->eliminarPlato(11);
 
 //!================================================
 //$platos = new Platos("","","","","","");
@@ -34,12 +34,12 @@ require_once 'models/Menu.php';
 //$cliente = Clientes::getByEmail("jome@.com");
 //var_dump($cliente);
 
-//?==================================================
+//!==================================================
 
 //$cliente = new Usuario("","","","","","","");
 //$cliente->mostrarCliente();
 
-//?===================================================
+//!===================================================
 
 //$menu = new Menu();
 //$menu->mostrarCategorias();

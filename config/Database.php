@@ -37,8 +37,8 @@ class Database {
     
 }
 
-$bd = new Database();
-$bd->getConexion();
+//$bd = new Database();
+//$bd->getConexion();
 ?>
 </body>
 </html>
